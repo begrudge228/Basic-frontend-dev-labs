@@ -1,0 +1,23 @@
+#blocksPicters{
+    width:380px;
+    box-shadow: 0 14px 40px #C4E3FC;
+}
+#blocksPicters1{
+    width:380px;
+    box-shadow: 0 14px 40px #C4E3FC;
+}
+#blocksPicters2{
+    width:380px;
+    box-shadow: 0 14px 40px #C4E3FC;
+}
+#blocksPicters3{
+    width:380px;
+    box-shadow: 0 14px 40px #C4E3FC;
+}
+#upfooter{
+    border-radius: 200px 0px 0px 0px;
+}
+#douwnfooter{
+    border-radius: 0px 200px 0px 0px;
+    color: #5A98D0;
+}
